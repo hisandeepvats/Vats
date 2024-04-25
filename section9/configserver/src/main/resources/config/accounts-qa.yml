@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to VatsBank accounts related to QA APIs "
+  contactDetails:
+    name: "Sandeep - Developer"
+    email: "st@GM.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

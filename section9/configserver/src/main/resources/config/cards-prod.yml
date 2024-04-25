@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to VatsBank cards related to prod APIs "
+  contactDetails:
+    name: "Arya Tyagi - Developer"
+    email: "arya@GM.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
